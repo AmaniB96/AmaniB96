@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmaniB96
+- 👋 Hi, I’m Amani
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning Software developement
 - 💞️ I’m looking to collaborate on web,app and sofotware developement
