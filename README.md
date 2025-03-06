@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amani
-- 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning Software developement
+-  I’m interested in AI and Machine learning
+-  I’m currently learning Software developement
 - Write code... and sometimes it works.
 
 <!---
